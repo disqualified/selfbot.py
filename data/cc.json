@@ -1,5 +1,7 @@
 {
-    "pycc": {},
+    "pycc": {
+        "weird": " await ctx.send(\":thinking;\")"
+    },
     "textcc": {
         "gay": "hi"
     }
