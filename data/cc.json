@@ -1,8 +1,6 @@
 {
-    "pycc":{
-        
-    },
-    "textcc":{
-        
+    "pycc": {},
+    "textcc": {
+        "gay": "hi"
     }
 }
